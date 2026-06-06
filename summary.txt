@@ -1,0 +1,2 @@
+i create a repo and made 2 notebooks and then i cloned the repo using the https link through my terminal and then i commited changes and uploaded the notebook and then making a cell and how to execute the cells
+i learned how to clone a repo and how to commit changes and then how i can see hwoe verythign was recently changed or updated and the date and time and other information about updates on the repo the only challenge i faced when io was downloading the repo or i mean cloning it i have never done that before cause i usually just download as zip 
